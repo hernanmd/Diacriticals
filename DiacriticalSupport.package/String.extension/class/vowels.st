@@ -1,0 +1,4 @@
+*DiacriticalSupport
+vowels
+
+	^ 'aeiouAEIOU'

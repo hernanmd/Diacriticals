@@ -1,0 +1,14 @@
+{
+	"category" : "DiacriticalSupport-Core",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 9/25/2008 11:27",
+	"instvars" : [
+		 ],
+	"name" : "CharacterTable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

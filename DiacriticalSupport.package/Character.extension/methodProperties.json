@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"accents" : "hfm 8/7/2008 22:16",
+		"acutes" : "hfm 8/7/2008 22:16",
+		"cedils" : "hfm 8/7/2008 22:16",
+		"circumflexes" : "hfm 8/7/2008 22:16",
+		"diacriticalTable" : "hfm 8/7/2008 22:16",
+		"diacriticals" : "hfm 8/7/2008 22:16",
+		"diacriticalsAt:" : "hfm 5/20/2010 09:57",
+		"dieresis" : "hfm 8/7/2008 22:15",
+		"graves" : "hfm 8/7/2008 22:15",
+		"noAcutes" : "hfm 8/7/2008 22:15",
+		"noCedils" : "hfm 8/7/2008 22:15",
+		"noCircumflexes" : "hfm 8/7/2008 22:15",
+		"noDieresis" : "hfm 8/7/2008 22:15",
+		"noGraves" : "hfm 8/7/2008 22:14",
+		"noTildes" : "hfm 8/7/2008 22:14",
+		"nonDiacriticalTable" : "hfm 8/7/2008 22:17",
+		"nonDiacriticals" : "hfm 8/7/2008 22:17",
+		"nonDiacriticalsAt:" : "hfm 5/20/2010 10:02",
+		"tildes" : "hfm 8/7/2008 22:14" },
+	"instance" : {
+		"asDiacritical:" : "hfm 5/20/2010 10:04",
+		"asLowercaseWithoutDiatriticals" : "hfm 8/7/2008 22:19",
+		"asNonDiacritical" : "hfm 5/20/2010 10:11",
+		"isDiacritical" : "hfm 8/7/2008 22:18",
+		"nonDiacriticalValue" : "hfm 8/7/2008 22:18" } }
