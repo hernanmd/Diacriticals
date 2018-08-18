@@ -1,4 +1,0 @@
-*DiacriticalSupport
-diacriticalTable
-
-	^ String diacriticalTable 
