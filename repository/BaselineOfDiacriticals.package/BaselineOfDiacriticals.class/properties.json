@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "HernanMoralesDurand 8/17/2018 22:58",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfDiacriticals",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfDiacriticals",
+	"type" : "normal"
+}
