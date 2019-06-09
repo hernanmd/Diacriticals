@@ -1,4 +1,4 @@
-testing
+*DiacriticalSupportTest
 testAsNonDiacritical
 	self assert: 'canción' asNonDiacritical equals: 'cancion'.
 	self assert: 'cancion' asNonDiacritical equals: 'cancion'.

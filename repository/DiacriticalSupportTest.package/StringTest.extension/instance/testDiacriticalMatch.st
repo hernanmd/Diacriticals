@@ -1,5 +1,6 @@
-testing
+*DiacriticalSupportTest
 testDiacriticalMatch
+
 	self assert: ('canción' diacriticalMatch: 'cancien') equals: 0.
 	self assert: ('cancien' diacriticalMatch: 'canción') equals: 0.
 	self assert: ('canción' diacriticalMatch: 'cancion') equals: 1.

@@ -1,5 +1,5 @@
-testing
-testDiacriticalEquivalent
+*DiacriticalSupportTest
+testIsDiacriticalEquivalentOf
 
 	self deny: ('canción' isDiacriticalEquivalentOf: 'cancien').
 	self assert: ('canción' isDiacriticalEquivalentOf: 'cancion').

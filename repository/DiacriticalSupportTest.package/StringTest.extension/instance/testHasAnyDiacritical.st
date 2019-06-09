@@ -1,4 +1,4 @@
-testing
+*DiacriticalSupportTest
 testHasAnyDiacritical
 
 	self deny: 'cancion' hasAnyDiacritical.
