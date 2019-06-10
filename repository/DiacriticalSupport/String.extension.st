@@ -33,7 +33,11 @@ String >> diacriticalMatch: aString [
 String class >> diacriticalTable [
 	" Answer the table of diacritical characters "
 
-	^ Smalltalk at: #DiacriticalTable
+	^ (Smalltalk at: #DiacriticalTable)
+		ifNil: [ 
+			CharacterTable initialize.
+			(Smalltalk at: #DiacriticalTable) ]
+		ifNotNil: [ : dt | dt ]
 ]
 
 { #category : #'*DiacriticalSupport' }
@@ -56,7 +60,11 @@ String >> isDiacriticalEquivalentOf: aString [
 String class >> nonDiacriticalTable [
 	" Answer the table of non diacritical characters "
 
-	^ Smalltalk at: #NonDiacriticalTable
+	^ (Smalltalk at: #NonDiacriticalTable)
+		ifNil: [ 
+			CharacterTable initialize.
+			(Smalltalk at: #NonDiacriticalTable) ]
+		ifNotNil: [ : dt | dt ]
 ]
 
 { #category : #'*DiacriticalSupport' }
